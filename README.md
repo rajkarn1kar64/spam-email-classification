@@ -58,9 +58,6 @@ This project is a Machine Learning-powered **Email Spam Classifier** that detect
 
 ---
 
-## 👨‍💻 Author
-
-Made by Sunil Limbu
 
 
 
